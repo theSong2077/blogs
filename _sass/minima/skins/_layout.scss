@@ -262,12 +262,9 @@
   
   .post-link {
     display: block;
+    color: $brand-color;
     @include relative-font-size(1.5);
   }
-
-  .post-link:hover {
-    text-decoration: none;
-}
   
   
   
